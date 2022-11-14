@@ -29,7 +29,9 @@ sudo docker run -p 8000:8000 dockerfile
 [IntentClassification.ipynb](https://github.com/Supernova-PulsarAIGeorgia/sentiment-analysis/blob/main/model_training/IntentClassification.ipynb) contains model training code.
 
 ### Model Folder
-After training, create a "model" folder in the inference folder and save all the neccasery model files.
+After training,save all the neccasery model files to the "model" folder.
+
+Also you can [download](https://drive.google.com/drive/u/1/folders/1K6ZrM8lqqa2t80TiYk_Kj9-glVGNi-Qf) our trained model(only pytroch_model.bin(model weights)) and add it to the "model" folder. 
 
 ### App
 
